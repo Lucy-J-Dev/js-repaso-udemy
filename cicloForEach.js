@@ -37,6 +37,4 @@ console.log(etiquetas);
 //   console.log(elemento);
 // }
 
-[...etiquetas].forEach((elemento) => {
-  console.log(elemento);
-});
+[...etiquetas].forEach((elemento) => console.log(elemento));
